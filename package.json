@@ -17,7 +17,7 @@
     "build": "node --max_old_space_size=4096 build/build.js"
   },
   "dependencies": {
-    "acorn": "^5.7.1",
+    "acorn": "^5.7.4",
     "awe-dnd": "^0.3.1",
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
