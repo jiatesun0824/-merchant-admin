@@ -19,7 +19,7 @@
   "dependencies": {
     "acorn": "^5.7.1",
     "awe-dnd": "^0.3.1",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "chart.js": "^2.7.3",
     "deepmerge": "^2.1.1",
