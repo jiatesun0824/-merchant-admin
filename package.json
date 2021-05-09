@@ -30,7 +30,7 @@
     "is-mergeable-object": "^1.1.0",
     "jquery": "^3.2.1",
     "loadsh": "0.0.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "print-js": "^1.0.47",
     "qrcode.vue": "^1.6.0",
