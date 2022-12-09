@@ -34,7 +34,7 @@
     "moment": "^2.24.0",
     "print-js": "^1.0.47",
     "qrcode.vue": "^1.6.0",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "quill-image-drop-module": "^1.0.3",
     "quill-image-resize-module": "^3.0.0",
     "sockjs-client": "^1.1.5",
